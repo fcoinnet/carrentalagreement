@@ -115,26 +115,26 @@ The software works on **Windows, Android, iOS, macOS, and Linux**.
 
 ## 👨‍💻 About Us
 
-This software is proudly developed by the team at **[fcoinet.com](https://fcoinet.com)**, focused on simple, elegant, and powerful software tools for professionals.
+This software is proudly developed by the team at **[fcoinnet.com](https://fcoinnet.com)**, focused on simple, elegant, and powerful software tools for professionals.
 
 ---
 
 ## 🖼️ Image Gallery
 
 ### 💻 Desktop Screenshots  
-![Desktop Screenshot](https://github.com/your-username/your-repo-name/raw/main/screenshots/desktop1.png)  
-![Desktop Screenshot](https://github.com/your-username/your-repo-name/raw/main/screenshots/desktop2.png)
+![Desktop Screenshot](https://github.com/fcoinnet/carrentalagreement/raw/main/screenshots/desktop1.png)  
+![Desktop Screenshot](https://github.com/fcoinnet/carrentalagreement/raw/main/screenshots/desktop2.png)
 
 ### 📱 Mobile Screenshots  
-![Mobile Screenshot](https://github.com/your-username/your-repo-name/raw/main/screenshots/mobile1.png)  
-![Mobile Screenshot](https://github.com/your-username/your-repo-name/raw/main/screenshots/mobile2.png)
+![Mobile Screenshot](https://github.com/fcoinnet/carrentalagreement/raw/main/screenshots/mobile1.png)  
+![Mobile Screenshot](https://github.com/fcoinnet/carrentalagreement/raw/main/screenshots/mobile2.png)
 
 ---
 
 ## 📥 Download English Contract Template
 
 You can download a ready-to-edit car rental agreement template in English here:  
-📄 [Download English Contract (PDF)](https://github.com/your-username/your-repo-name/raw/main/english-contract.pdf)
+📄 [Download English Contract (PDF)](https://github.com/fcoinnet/carrentalagreement/raw/main/samplecontract/english-contract.pdf)
 
 ---
 
