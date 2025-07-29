@@ -1,39 +1,104 @@
-# Car Rental Agreement Printing Software (Multi-Language Support)  
+# 🚗 Car Rental Agreement Generator Software
 
-![Software Logo](URL_TO_LOGO_IMAGE) *(Optional)*  
+![Software Logo](https://github.com/your-username/your-repo-name/raw/main/logo.png)
 
-A professional **car rental agreement printing software** with **multi-language support**, designed for car rental companies, agencies, and individual users.  
+## 📄 What is this software?
 
-## 🔥 Key Features  
-- ✅ Print standardized **car rental contracts** in multiple languages (English, Persian, Arabic, etc.).  
-- ✅ Customizable contract templates (edit terms, conditions, and clauses).  
-- ✅ User-friendly interface (no technical skills required).  
-- ✅ Compatible with **Windows & macOS**.  
-- ✅ PDF & DOCX export options.  
+**Car Rental Agreement Generator Software** helps car rental companies and individuals to **customize, edit, and print car rental contracts** in just a few minutes. You can input lessor and lessee details, car information, legal clauses specific to your region, and your business logo, address, and contact info.
 
-## 💻 How to Download & Purchase  
-This is **not a free software**. To buy or get a trial version:  
-- **Official Website:** [YourWebsite.com](https://yourwebsite.com) *(Recommended)*  
-- **Email Support:** contact@yourdomain.com  
-- **Phone/WhatsApp:** +98 XXX XXX XXXX *(If applicable)*  
+It works seamlessly on **Android phones, iPhones, Windows PCs, MacBooks, tablets**, and other devices. The software supports **PDF output**, easy sharing, and multilingual contract customization. You can **save your custom contract text** and reuse it anytime. Fully white-label ready with brand logo and business name.
 
-## 🛠 Installation Guide *(If needed)*  
-1. Download the setup file from [Official Website](https://yourwebsite.com/download).  
-2. Run the installer and follow the instructions.  
-3. Launch the software and enter your license key.  
+---
 
-## ❓ FAQ (Frequently Asked Questions)  
-### ❔ Is there a free trial available?  
-→ Yes, a **7-day trial** is available on our website.  
+## 🛠️ Features
 
-### ❔ Which languages are supported?  
-→ English, Persian, Arabic, and more (check the website for updates).  
+- Create and print fully customizable car rental agreements  
+- Insert your **business logo, name, phone, and address**  
+- Save and load contract text anytime  
+- Export contracts to **PDF format**  
+- Supports **A4 / A3 paper sizes** and text alignment options  
+- Multilingual support (English, Arabic, Chinese, French, etc.)  
+- Works on **Windows, Android, iOS, macOS, Linux**  
+- Clean and user-friendly interface
 
-### ❔ Can I edit the contract template?  
-→ Yes, the software allows full customization of contract terms.  
+---
 
-## 📜 About Us  
-We are a software development team specializing in **legal and business document automation**. Our goal is to simplify contract management for car rental businesses worldwide.  
+## 🚀 Installation & Purchase
 
-📧 **Contact:** support@yourdomain.com  
-🌐 **Website:** [YourWebsite.com](https://yourwebsite.com)  
+You can install the software by visiting the link below or using the **online version**:
+
+🔗 [Try the Online Version](https://fcoinet.com/car-rental-agreement)
+
+---
+
+## 📚 How to Use
+
+### 📝 General Contract Information Panel  
+Enter basic details like **Contract Title 1**, **Contract Title 2**, and **Contract Number**. Ensure your agreement is uniquely identified.
+
+### 📃 Contract Text Panel  
+Type or paste the full **rental agreement content**. Customize every term and condition to fit your business needs.
+
+### 🖨️ Print Settings Panel  
+Select **A4 or A3** page size, and set the **text alignment** (Left or Right) for better layout and printing.
+
+### 📥 Print & Download Button  
+Click to generate a **ready-to-print PDF** of your contract.
+
+### 💾 Save My Data Button  
+Saves all form inputs including the customized text for future use.
+
+### 🔄 Load My Data Button  
+Loads your previously saved data into the form for quick access.
+
+### 🌐 Language Panel  
+Choose a default contract language or edit and save your own **localized version**.
+
+---
+
+## ❓ Frequently Asked Questions (FAQ)
+
+**🔹 Is there a free demo version?**  
+Yes, a fully functional demo version is available online.
+
+**🔹 Which languages are supported?**  
+English, Chinese, Arabic, Russian, German, French, Italian, and more.
+
+**🔹 Can I customize the contract text?**  
+Absolutely! All parts of the contract are fully editable.
+
+**🔹 Can I add my own business logo?**  
+Yes, you can upload your logo for branding.
+
+**🔹 Which platforms are supported?**  
+The software works on **Windows, Android, iOS, macOS, and Linux**.
+
+---
+
+## 👨‍💻 About Us
+
+This software is proudly developed by the team at **[fcoinet.com](https://fcoinet.com)**, focused on simple, elegant, and powerful software tools for professionals.
+
+---
+
+## 🖼️ Image Gallery
+
+### 💻 Desktop Screenshots  
+![Desktop Screenshot](https://github.com/your-username/your-repo-name/raw/main/screenshots/desktop1.png)  
+![Desktop Screenshot](https://github.com/your-username/your-repo-name/raw/main/screenshots/desktop2.png)
+
+### 📱 Mobile Screenshots  
+![Mobile Screenshot](https://github.com/your-username/your-repo-name/raw/main/screenshots/mobile1.png)  
+![Mobile Screenshot](https://github.com/your-username/your-repo-name/raw/main/screenshots/mobile2.png)
+
+---
+
+## 📥 Download English Contract Template
+
+You can download a ready-to-edit car rental agreement template in English here:  
+📄 [Download English Contract (PDF)](https://github.com/your-username/your-repo-name/raw/main/english-contract.pdf)
+
+---
+
+## 📌 SEO Keywords to Help Users Find This Project
+
