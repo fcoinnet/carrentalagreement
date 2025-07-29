@@ -1,6 +1,6 @@
 # 🚗 Car Rental Agreement Generator Software
 
-![Software Logo](https://github.com/your-username/your-repo-name/raw/main/logo.png)
+![Software Logo](https://github.com/fcoinnet/carrentalagreement/raw/main/logo.png)
 
 ## 📄 What is this software?
 
