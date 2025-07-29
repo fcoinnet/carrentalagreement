@@ -55,7 +55,45 @@ Loads your previously saved data into the form for quick access.
 Choose a default contract language or edit and save your own **localized version**.
 
 ---
+## 🌍 Multi-Language Support (25+ Languages)
 
+Our Car Rental Agreement Software provides native-level translations with legally validated terminology for global markets:
+
+### 🌐 Fully Supported Languages
+
+#### Americas & Europe
+|  | Language        |  | Language        |
+|--|-----------------|--|-----------------|
+| 🇬🇧 | English (Default) | 🇪🇸 | Spanish         |
+| 🇵🇹 | Portuguese       | 🇫🇷 | French          |
+| 🇩🇪 | German           | 🇮🇹 | Italian         |
+| 🇷🇺 | Russian          | 🇳🇱 | Dutch           |
+| 🇸🇪 | Swedish          | 🇩🇰 | Danish          |
+| 🇳🇴 | Norwegian        | 🇫🇮 | Finnish         |
+| 🇵🇱 | Polish           | 🇬🇷 | Greek           |
+
+#### Middle East & Africa
+|  | Language        |  | Language        |
+|--|-----------------|--|-----------------|
+| 🇸🇦 | Arabic           | 🇮🇷 | Persian (Farsi)  |
+| 🇮🇱 | Hebrew           | 🇹🇷 | Turkish          |
+
+#### Asia & Pacific
+|  | Language        |  | Language        |
+|--|-----------------|--|-----------------|
+| 🇨🇳 | Chinese (Mandarin)| 🇯🇵 | Japanese         |
+| 🇰🇷 | Korean           | 🇮🇳 | Hindi            |
+| 🇧🇩 | Bengali          | 🇵🇰 | Urdu             |
+| 🇹🇭 | Thai             | 🇻🇳 | Vietnamese       |
+| 🇮🇩 | Indonesian       | 🇱🇰 | Sinhala          |
+
+### ✨ Key Language Features
+- **Legal Accuracy**: Professionally translated contract clauses
+- **RTL Support**: Full right-to-left text rendering for Arabic, Hebrew, Persian, and Urdu
+- **Dynamic Switching**: Change languages without restarting
+- **Custom Dialects**: Regional variations available (e.g. Latin American Spanish)
+- **Unicode Support**: All characters display correctly
+---
 ## ❓ Frequently Asked Questions (FAQ)
 
 **🔹 Is there a free demo version?**  
