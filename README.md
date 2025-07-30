@@ -136,12 +136,11 @@ This software is proudly developed by the team at **[fcoinnet.com](https://fcoin
 
 ## 📥 Download English Contract Template
 
-You can download a ready-to-edit car rental agreement template in English here:  
-📄 [Download English Contract (PDF)](https://github.com/fcoinnet/carrentalagreement/raw/main/contract/en.pdf)
-📄 [Download arabic Contract (PDF)](https://github.com/fcoinnet/carrentalagreement/raw/main/contract/ar.pdf)
-📄 [Download German Contract (PDF)](https://github.com/fcoinnet/carrentalagreement/raw/main/contract/de.pdf)
-📄 [Download Chinese (Mandarin) Contract (PDF)](https://github.com/fcoinnet/carrentalagreement/raw/main/contract/zh.pdf)
-
+You can download a ready-to-edit car rental agreement template in here:
+- 📄 [Download English Contract (PDF)](https://github.com/fcoinnet/carrentalagreement/raw/main/contract/en.pdf)
+- 📄 [Download Arabic Contract (PDF)](https://github.com/fcoinnet/carrentalagreement/raw/main/contract/ar.pdf)
+- 📄 [Download German Contract (PDF)](https://github.com/fcoinnet/carrentalagreement/raw/main/contract/de.pdf)
+- 📄 [Download Chinese (Mandarin) Contract (PDF)](https://github.com/fcoinnet/carrentalagreement/raw/main/contract/zh.pdf)
 ---
 
 ## 📌 SEO Keywords to Help Users Find This Project
