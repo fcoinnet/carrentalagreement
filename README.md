@@ -155,3 +155,37 @@ You can download a ready-to-edit car rental agreement template in English here:
 - PDF Car Rental Form Software  
 - Car Rental Document Generator  
 - Rental Agreement Management System
+
+## 🌍 Multilingual Name for the Software
+Here is how to say "**Car Rental Agreement Software**" in different languages:
+
+| Language              | Translation                                      |
+|-----------------------|--------------------------------------------------|
+| English               | Car Rental Agreement Software                   |
+| Chinese (Mandarin)    | 汽车租赁合同软件                                    |
+| Spanish               | Software de Contrato de Alquiler de Coches      |
+| Hindi                 | कार रेंटल एग्रीमेंट सॉफ़्टवेयर                     |
+| Arabic                | برنامج عقد تأجير السيارات                         |
+| Bengali               | গাড়ি ভাড়া চুক্তি সফটওয়্যার                     |
+| Portuguese            | Software de Contrato de Aluguel de Carros       |
+| Russian               | Программа для договора аренды автомобиля         |
+| Urdu                  | کار رینٹل معاہدہ سافٹ ویئر                        |
+| Persian (Farsi)       | نرم‌افزار قرارداد اجاره خودرو                    |
+| German                | Software für Autovermietungsverträge            |
+| Turkish               | Araç Kiralama Sözleşme Yazılımı                 |
+| Italian               | Software per Contratti di Noleggio Auto         |
+| French                | Logiciel de Contrat de Location de Voiture      |
+| Japanese              | 自動車レンタル契約ソフトウェア                     |
+| Korean                | 자동차 렌트 계약 소프트웨어                       |
+| Dutch                 | Software voor Autoverhuurcontracten             |
+| Swedish               | Programvara för Biluthyrningsavtal              |
+| Finnish               | Autovuokrasopimusohjelmisto                     |
+| Norwegian             | Programvare for Bilutleiekontrakt              |
+| Danish                | Software til Biludlejningskontrakt             |
+| Polish                | Oprogramowanie do Umowy Wynajmu Samochodu       |
+| Greek                 | Λογισμικό Συμφωνίας Ενοικίασης Αυτοκινήτου       |
+| Hebrew                | תוכנה לחוזה השכרת רכב                            |
+| Thai                  | ซอฟต์แวร์สัญญาเช่ารถยนต์                        |
+| Vietnamese            | Phần mềm Hợp đồng Thuê xe                       |
+| Indonesian            | Perangkat Lunak Perjanjian Sewa Mobil          |
+
