@@ -139,8 +139,19 @@ This software is proudly developed by the team at **[fcoinnet.com](https://fcoin
 You can download a ready-to-edit car rental agreement template in English here:  
 📄 [Download English Contract (PDF)](https://github.com/fcoinnet/carrentalagreement/raw/main/contract/en.pdf)
 📄 [Download arabic Contract (PDF)](https://github.com/fcoinnet/carrentalagreement/raw/main/contract/ar.pdf)
+📄 [Download German Contract (PDF)](https://github.com/fcoinnet/carrentalagreement/raw/main/contract/de.pdf)
+📄 [Download Chinese (Mandarin) Contract (PDF)](https://github.com/fcoinnet/carrentalagreement/raw/main/contract/zh.pdf)
 
 ---
 
 ## 📌 SEO Keywords to Help Users Find This Project
-
+- Car Rental Agreement Software  
+- Auto Lease Contract Generator  
+- Rent a Car Contract Printing Tool  
+- Vehicle Rental Form Creator  
+- Car Hire Agreement Template  
+- Car Lease PDF Generator  
+- Printable Car Rental Contract  
+- PDF Car Rental Form Software  
+- Car Rental Document Generator  
+- Rental Agreement Management System
