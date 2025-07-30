@@ -122,8 +122,11 @@ This software is proudly developed by the team at **[fcoinnet.com](https://fcoin
 ## 🖼️ Image Gallery
 
 ### 💻 Desktop Screenshots  
-![Desktop Screenshot](https://github.com/fcoinnet/carrentalagreement/raw/main/screenshots/desktop1.png)  
-![Desktop Screenshot](https://github.com/fcoinnet/carrentalagreement/raw/main/screenshots/desktop2.png)
+![Desktop Screenshot](https://github.com/fcoinnet/carrentalagreement/raw/main/screenshots/desktop1.jpg)  
+![Desktop Screenshot](https://github.com/fcoinnet/carrentalagreement/raw/main/screenshots/desktop2.jpg)
+![Desktop Screenshot](https://github.com/fcoinnet/carrentalagreement/raw/main/screenshots/desktop3.jpg)
+![Desktop Screenshot](https://github.com/fcoinnet/carrentalagreement/raw/main/screenshots/desktop4.jpg)
+![Desktop Screenshot](https://github.com/fcoinnet/carrentalagreement/raw/main/screenshots/desktop5.jpg)
 
 ### 📱 Mobile Screenshots  
 ![Mobile Screenshot](https://github.com/fcoinnet/carrentalagreement/raw/main/screenshots/mobile1.png)  
