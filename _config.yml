@@ -1,5 +1,5 @@
 lang: en-US
-title: "Car Rental Agreement Generator Software | carrentalagreement"
+title: "Car Rental"
 
 description: "Car Rental Agreement Software – Create & Print Contracts in Minutes! Streamline your rental process with our powerful Car Rental Agreement Software. This easy-to-use tool lets you generate fully customized car rental contracts in just a few minutes. Enter the lessor and lessee details,"
 
@@ -37,3 +37,4 @@ plugins:
     
 theme: minima
   
+
