@@ -35,8 +35,9 @@ plugins:
     - "some-page.html"
 
     
-theme: minima
+#theme: minima
   
+
 
 
 
