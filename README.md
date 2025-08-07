@@ -1,8 +1,3 @@
----
-title: "Car Rental Contract Software"
-description: "Online international car rental agreement generator with crypto payment support."
----
-
 # 🚗 Car Rental Agreement Generator Software
 
 ![Software Logo](https://github.com/fcoinnet/carrentalagreement/raw/main/logo.png)
