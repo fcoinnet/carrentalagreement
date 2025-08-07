@@ -1,0 +1,39 @@
+lang: en-US
+title: "Car Rental Agreement Generator Software | carrentalagreement"
+
+description: "Car Rental Agreement Software – Create & Print Contracts in Minutes! Streamline your rental process with our powerful Car Rental Agreement Software. This easy-to-use tool lets you generate fully customized car rental contracts in just a few minutes. Enter the lessor and lessee details,"
+
+url: "https://fcoinnet.github.io"
+
+
+baseurl: "/carrentalagreement"
+
+#  open graph
+name: "carrentalagreement"
+
+twitter:
+  card: summary
+  title: "Car Rental Agreement Generator Software"
+
+# open graph properties
+og:
+  title: "Car Rental Agreement Generator Software"
+  locale: "en_US"
+  description: "Car Rental Agreement Software – Create & Print Contracts in Minutes! Streamline your rental process with our powerful Car Rental Agreement Software. This easy-to-use tool lets you generate fully customized car rental contracts in just a few minutes. Enter the lessor and lessee details,"
+  url: "https://fcoinnet.github.io/carrentalagreement/"
+  site_name: "carrentalagreement"
+  type: website
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+
+  sitemap:
+  filename: sitemap.xml
+  exclude:
+    - "some-page.html"
+
+    
+theme: minima
+  
