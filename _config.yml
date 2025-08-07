@@ -1,3 +1,4 @@
+markdown: kramdown
 lang: en-US
 title: "Car Rental"
 
@@ -36,5 +37,6 @@ plugins:
     
 theme: minima
   
+
 
 
